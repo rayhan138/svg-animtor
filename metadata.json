@@ -1,0 +1,5 @@
+{
+  "name": "SVG Animator",
+  "description": "A user-friendly tool to instantly animate your SVG files. Simply drag and drop an SVG, choose from a selection of pre-built animations, and see your creation come to life.",
+  "requestFramePermissions": []
+}
